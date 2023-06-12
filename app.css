@@ -1,0 +1,184 @@
+/* styles.css */
+
+/* Reset default margin and padding */
+body, h1, h2, h3, p, ul, li, form {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+header {
+    background-color: rgb(23, 94, 136);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+nav {
+    background-color: rgb(7, 130, 146);
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+}
+
+nav ul li a:hover {
+    background-color: #555;
+}
+
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.spot {
+    margin-bottom: 20px;
+}
+
+.spot h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label, input, textarea {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 5px;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+footer {
+    background-color: #777;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+}
+
+/* Style for the surf spots section */
+#spots {
+    padding: 40px;
+  }
+  
+  /* Style for each individual surf spot */
+  .spot {
+    margin-bottom: 40px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .spot h3 {
+    margin-top: 0;
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .spot p {
+    margin-bottom: 20px;
+    color: #777;
+    line-height: 1.5;
+  }
+  
+  .spot img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+
+/* Style for the surf spots section */
+#spots {
+  padding: 40px;
+}
+
+/* Style for each individual surf spot */
+.spot {
+  margin-bottom: 40px;
+  background-color: #f8f8f8;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.spot h3 {
+  margin-top: 0;
+  font-size: 24px;
+  font-family: "Montserrat", sans-serif;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.spot p {
+  margin-bottom: 20px;
+  font-family: "Open Sans", sans-serif;
+  color: #777;
+  line-height: 1.5;
+}
+
+.spot img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}

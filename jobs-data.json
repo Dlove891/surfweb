@@ -1,0 +1,57 @@
+{
+    "surfSpots": [
+      {
+        "name": "Windansea Beach",
+        "description": "Located in the southern part of La Jolla, Windansea Beach is famous for its powerful waves and reef breaks.",
+        "image": "windansea.jpg"
+      },
+      {
+        "name": "Scripps Pier",
+        "description": "Scripps Pier offers consistent waves and is popular among both longboarders and shortboarders.",
+        "image": "scripps.jpg"
+      },
+      {
+        "name": "Black's Beach",
+        "description": "Black's Beach is known for its stunning beauty and challenging surf conditions. It is one of Southern California's most famous surf spots.",
+        "image": "blacks.jpg"
+      },
+      {
+        "name": "La Jolla Shores",
+        "description": "La Jolla Shores is a popular spot for beginners and offers a sandy bottom and gentle waves.",
+        "image": "shores.jpg"
+      },
+      {
+        "name": "Horseshoe",
+        "description": "Horseshoe is a reef break that offers powerful and fast waves, recommended for experienced surfers.",
+        "image": "horseshoe.jpg"
+      },
+      {
+        "name": "Tourmaline Surfing Park",
+        "description": "Tourmaline Surfing Park is a great spot for all skill levels, with both left and right-hand waves.",
+        "image": "tourmaline.jpg"
+      },
+      {
+        "name": "Marine Street Beach",
+        "description": "Marine Street Beach is known for its consistent waves and is suitable for all skill levels.",
+        "image": "marine.jpg"
+      },
+      {
+        "name": "Bird Rock",
+        "description": "Bird Rock is a reef break that offers powerful waves and is recommended for experienced surfers.",
+        "image": "birdrock.jpg"
+      },
+      {
+        "name": "The Clam",
+        "description": "The Clam is a point break known for its long, clean waves that are ideal for longboarders.",
+        "image": "clam.jpg"
+      },
+      {
+        "name": "Hospital Point",
+        "description": "Hospital Point is a reef break that offers fast and hollow waves, suitable for experienced surfers.",
+        "image": "hospital.jpg"
+      }
+      
+    ]
+  }
+  
+  
